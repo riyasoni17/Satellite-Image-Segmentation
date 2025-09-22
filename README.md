@@ -7,12 +7,12 @@ This repository contains my **Final Year Project (2023)** on **Satellite Image S
 ## Problem Statement  
 Given satellite images, the task is to assign each pixel to one of the following semantic classes:  
 
-1. **Building** 🏢 – `#3C1098`  
-2. **Land (unpaved area)** 🏜 – `#8429F6`  
-3. **Road** 🛣 – `#6EC1E4`  
-4. **Vegetation** 🌳 – `#FEDD3A`  
-5. **Water** 💧 – `#E2A929`  
-6. **Unlabeled**   – `#9B9B9B`  
+1. **Building** – `#3C1098`  
+2. **Land (unpaved area)** – `#8429F6`  
+3. **Road** – `#6EC1E4`  
+4. **Vegetation** – `#FEDD3A`  
+5. **Water** – `#E2A929`  
+6. **Unlabeled** – `#9B9B9B`  
 
 ---
 
